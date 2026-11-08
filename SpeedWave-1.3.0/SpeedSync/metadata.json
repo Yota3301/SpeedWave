@@ -3,7 +3,7 @@
   "name": "SpeedWave",
   "version": "1.3.0",
   "author": [
-    "SpeedWave"
+    "Yota"
   ],
   "description": "Скорость воспроизведения и эффект slowed / speed up в настройках звука.",
   "type": "script",
